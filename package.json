@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md",
+  "name": "Mr_Raviya-md",
   "version": "3.0.5",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Mr Raviya whatsapp bot- Multi device version.",
   "scripts": {
     "start": "pm2 start . --attach --name Raganork"
   },
